@@ -1,0 +1,22 @@
+WebApp UI
+	Display Map 
+	Display Recent Locations
+	Show Current State 
+User management
+	Sign up
+	Sign in 
+	Add Location and Location info
+Info Service 
+	Choose a location
+	Choose a type of police
+Admin Panel
+	Show current locations
+	Update current locations
+	Show recent locations
+	Update recent locations 
+Admin Service
+	Add amenities 
+	Delete amenities
+Database
+	Fetch information 
+	Store information 
